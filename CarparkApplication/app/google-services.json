@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "331918053903",
+    "firebase_url": "https://carpark-17b10-default-rtdb.firebaseio.com",
+    "project_id": "carpark-17b10",
+    "storage_bucket": "carpark-17b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331918053903:android:5efc217c3281d2c2f7897a",
+        "android_client_info": {
+          "package_name": "com.example.car_parkapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYFJIAM3YnYf1WVXj-jEdwNAl0AgZym8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331918053903:android:3726b01eceba190bf7897a",
+        "android_client_info": {
+          "package_name": "com.example.car_parkapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYFJIAM3YnYf1WVXj-jEdwNAl0AgZym8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331918053903:android:bff84b3a32ff3cf1f7897a",
+        "android_client_info": {
+          "package_name": "com.example.carpark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtYFJIAM3YnYf1WVXj-jEdwNAl0AgZym8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
